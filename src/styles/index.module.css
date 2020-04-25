@@ -1,0 +1,9 @@
+.imagesUrl {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.image {
+  flex: 0 0 200px;
+  margin: 10px;
+}
